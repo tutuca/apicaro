@@ -2,6 +2,5 @@
 ----------------API para ICARO----------------
 
 
---02/06/2011--
 
-apicaro 0.1. version de desarrollo de la API de comunicacion para placas np03/np05 de puero serie (/dev/ttyACM0)
+apicaro 1.0 version de desarrollo de la API de comunicacion para placas np03/np05 de puero serie (/dev/ttyACM0)
